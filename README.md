@@ -14,14 +14,15 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 > Tip 2: I suggest replacing the `Zenburn Cold Gray` theme with [**Zenburn In Grays**](https://marketplace.visualstudio.com/items?itemName=nicola-granata.zenburn-in-grays) theme that contains the same skins with a Cold Gray background and in other sub-themes variants `Cold` / `Flat` / `Warm` / `Anthracite` / `Midnight` / `Nirvana` / `Low Blue`.
 
-> Tip 3: Themes variants are pretty similar but you can find and set right colour intensity based on your monitor sRGB representation.
+> Tip 3: Themes variants are pretty similar but you can find right colour intensity based on your monitor `sRGB` representation.
 
 
-## Whats's new in Zenburn Cold Gray V. 1.1.93
+## Whats's new in Zenburn Cold Gray V. 1.1.94
 
 > Note: [`Development`] sections in *Changelog* are addressed to the developer to remind him of any important changes that occurred during the writing of the code and do not always concern improvements made to the extension or to the theme.
 
 - [`Themes`] `Dark Matter` suite only: added `Anthracite` sub-theme, with extra cold gray background;
+- [`Themes`] Deprecated `Zenburn Cold Gray` in favor of `Zenburn in Grays`;
 - [`Development`] Added function for deprecate old themes that insert deprecation in favor of theme indicated;
 - [`Development`] Short badge on `README.md`;
 - [`Development`] Improved {app_name} UI PHP and JS functions to auto-unselect harmful build options after build theme/extension.

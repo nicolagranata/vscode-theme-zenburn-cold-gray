@@ -2,8 +2,9 @@
 
 > Note: [`Development`] sections in *Changelog* are addressed to the developer to remind him of any important changes that occurred during the writing of the code and do not always concern improvements made to the extension or to the theme.
 
-## [1.1.93]
+## [1.1.94]
 - [`Themes`] `Dark Matter` suite only: added `Anthracite` sub-theme, with extra cold gray background;
+- [`Themes`] Deprecated `Zenburn Cold Gray` in favor of `Zenburn in Grays`;
 - [`Development`] Added function for deprecate old themes that insert deprecation in favor of theme indicated;
 - [`Development`] Short badge on `README.md`;
 - [`Development`] Improved VSCode Themes Master UI PHP and JS functions to auto-unselect harmful build options after build theme/extension.

@@ -2,7 +2,7 @@
 
 > Note: [`Development`] sections in *Changelog* are addressed to the developer to remind him of any important changes that occurred during the writing of the code and do not always concern improvements made to the extension or to the theme.
 
-## [1.1.90]
+## [1.1.91]
 - [`Themes`] `Dark Matter` suite only: added `Anthracite` sub-theme, with extra cold gray background;
 - [`Development`] Added function for deprecate old themes that insert deprecation in favor of theme indicated;
 - [`Development`] Short badge on `README.md`;

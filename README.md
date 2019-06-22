@@ -17,7 +17,7 @@ However, attempts were made to leave error signals and selections clearly visibl
 > Tip 3: Themes variants are pretty similar but you can find and set right colour intensity based on your monitor sRGB representation.
 
 
-## Whats's new in Zenburn Cold Gray V. 1.1.90
+## Whats's new in Zenburn Cold Gray V. 1.1.91
 
 > Note: [`Development`] sections in *Changelog* are addressed to the developer to remind him of any important changes that occurred during the writing of the code and do not always concern improvements made to the extension or to the theme.
 

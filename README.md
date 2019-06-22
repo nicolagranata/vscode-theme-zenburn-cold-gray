@@ -1,6 +1,6 @@
 [![Version](https://vsmarketplacebadge.apphb.com/version-short/nicola-granata.zenburn-cold-gray.svg)](https://marketplace.visualstudio.com/items?itemName=nicola-granata.zenburn-cold-gray)&nbsp;[![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/nicola-granata.zenburn-cold-gray.svg)](https://marketplace.visualstudio.com/items?itemName=nicola-granata.zenburn-cold-gray)&nbsp;[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/nicola-granata.zenburn-cold-gray.svg)](https://marketplace.visualstudio.com/items?itemName=nicola-granata.zenburn-cold-gray)&nbsp;[![Rating](https://vsmarketplacebadge.apphb.com/rating-short/nicola-granata.zenburn-cold-gray.svg)](https://marketplace.visualstudio.com/items?itemName=nicola-granata.zenburn-cold-gray)&nbsp;
 
-# Zenburn Cold Gray *(deprecated in favor of [Zenburn In Grays](https://marketplace.visualstudio.com/items?itemName=nicola-granata.zenburn-in-grays))*
+# Zenburn Cold Gray (deprecated in favor of [Zenburn In Grays](https://marketplace.visualstudio.com/items?itemName=nicola-granata.zenburn-in-grays))
 
 ## **Zenburn** token colors based themes
 
@@ -17,7 +17,7 @@ However, attempts were made to leave error signals and selections clearly visibl
 > Tip 3: Themes variants are pretty similar but you can find and set right colour intensity based on your monitor sRGB representation.
 
 
-## Whats's new in Zenburn Cold Gray V. 1.1.89
+## Whats's new in Zenburn Cold Gray V. 1.1.90
 
 > Note: [`Development`] sections in *Changelog* are addressed to the developer to remind him of any important changes that occurred during the writing of the code and do not always concern improvements made to the extension or to the theme.
 

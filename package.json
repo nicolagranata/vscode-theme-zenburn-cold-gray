@@ -1,0 +1,90 @@
+{
+    "version": "1.1.89",
+    "publisher": "nicola-granata",
+    "license": "MIT",
+    "schema": "vscode://schemas/color-theme",
+    "author": {
+        "name": "Nicola Granata",
+        "email": "vscode.extensions@daemoncms.com",
+        "url": "https://github.com/nicolagranata"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "displayName": "Zenburn Cold Gray (deprecated in favor of [Zenburn In Grays](https://marketplace.visualstudio.com/items?itemName=nicola-granata.zenburn-in-grays))",
+    "icon": "_gfx/zenburn-cold-gray-icon.png",
+    "description": "Theme with Zenburn TokenColors on Gray Backgrounds (Cold / Anthracite / Midnight / Nirvana / Low Blue).",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nicolagranata/vscode-theme-zenburn-cold-gray.git"
+    },
+    "keywords": [
+        "zenburn",
+        "zen mode",
+        "low contrast",
+        "low blue light"
+    ],
+    "name": "zenburn-cold-gray",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Zenburn Cold Gray - Cold - Asphalt",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zenburn-cold-gray-cold-asphalt-color-theme.json"
+            },
+            {
+                "label": "Zenburn Cold Gray - Cold - Eggplant",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zenburn-cold-gray-cold-eggplant-color-theme.json"
+            },
+            {
+                "label": "Zenburn Cold Gray - Cold - Lazy",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zenburn-cold-gray-cold-lazy-color-theme.json"
+            },
+            {
+                "label": "Zenburn Cold Gray - Cold - Sugar Paper",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zenburn-cold-gray-cold-sugar-paper-color-theme.json"
+            },
+            {
+                "label": "Zenburn Cold Gray - Low Blue - Asphalt",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zenburn-cold-gray-low-blue-asphalt-color-theme.json"
+            },
+            {
+                "label": "Zenburn Cold Gray - Low Blue - Lazy",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zenburn-cold-gray-low-blue-lazy-color-theme.json"
+            },
+            {
+                "label": "Zenburn Cold Gray - Midnight - Sugar Paper",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zenburn-cold-gray-midnight-sugar-paper-color-theme.json"
+            },
+            {
+                "label": "Zenburn Cold Gray - Nirvana - Asphalt",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zenburn-cold-gray-nirvana-asphalt-color-theme.json"
+            },
+            {
+                "label": "Zenburn Cold Gray - Nirvana - Eggplant",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zenburn-cold-gray-nirvana-eggplant-color-theme.json"
+            },
+            {
+                "label": "Zenburn Cold Gray - Nirvana - Lazy",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zenburn-cold-gray-nirvana-lazy-color-theme.json"
+            },
+            {
+                "label": "Zenburn Cold Gray - Nirvana - Sugar Paper",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zenburn-cold-gray-nirvana-sugar-paper-color-theme.json"
+            }
+        ]
+    }
+}

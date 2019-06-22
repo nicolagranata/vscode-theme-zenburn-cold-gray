@@ -1,5 +1,5 @@
 {
-    "version": "1.1.91",
+    "version": "1.1.92",
     "publisher": "nicola-granata",
     "license": "MIT",
     "schema": "vscode://schemas/color-theme",
@@ -14,9 +14,9 @@
     "engines": {
         "vscode": "^1.33.0"
     },
-    "displayName": "Zenburn Cold Gray (deprecated in favor of `Zenburn In Grays`)",
+    "displayName": "Zenburn Cold Gray (deprecated in favor of "Zenburn In Grays")",
     "icon": "_gfx/zenburn-cold-gray-icon.png",
-    "description": "Theme with Zenburn TokenColors on Gray Backgrounds (Cold / Anthracite / Midnight / Nirvana / Low Blue).",
+    "description": "Theme with Zenburn TokenColors on Gray Backgrounds (Cold / Midnight / Nirvana / Low Blue).",
     "repository": {
         "type": "git",
         "url": "https://github.com/nicolagranata/vscode-theme-zenburn-cold-gray.git"

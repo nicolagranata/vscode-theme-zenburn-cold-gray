@@ -17,7 +17,7 @@ However, attempts were made to leave error signals and selections clearly visibl
 > Tip 3: Themes variants are pretty similar but you can find and set right colour intensity based on your monitor sRGB representation.
 
 
-## Whats's new in Zenburn Cold Gray V. 1.1.91
+## Whats's new in Zenburn Cold Gray V. 1.1.92
 
 > Note: [`Development`] sections in *Changelog* are addressed to the developer to remind him of any important changes that occurred during the writing of the code and do not always concern improvements made to the extension or to the theme.
 
@@ -38,7 +38,6 @@ See `Changelog` for previous versions.
 ### **Zenburn Cold Gray** variants descriptions:
 
 - `Cold` - Cold Gray Background and Cold Token Colors;
-- `Anthracite` - Anthracite Gray Background and Cold, Desatured Token Colors.;
 - `Midnight` - Midnight Blue Background, inspired by *Telegram X Midnight Theme* and Cold, Desatured Token Colors;
 - `Nirvana` - Low Blue Light only on Token Colors;
 - `Low Blue` - Low Blue Light on Ui and Token Colors.
